@@ -1,0 +1,17 @@
+.baslik{
+    text-align: center;
+    color: rgb(234, 8, 8);
+}
+.menu{
+    text-align: center;
+    color: brown;
+}
+div{
+    text-align: center;
+}
+ul{
+    list-style-position: inside
+}
+ol{
+    list-style-position: inside;
+}
